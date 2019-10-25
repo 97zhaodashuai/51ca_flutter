@@ -1,6 +1,6 @@
-# flutter_app
+# 51ca_flutter
 
-A new Flutter application.
+A new Flutter demo of 51ca
 
 ## Getting Started
 
